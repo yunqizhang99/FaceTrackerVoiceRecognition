@@ -1,0 +1,12 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# Project exclude paths
+/aars/build/
+/models/build/
+/models/build/intermediates/javac/debug/classes/
